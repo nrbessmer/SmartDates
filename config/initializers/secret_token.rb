@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-SmartDates::Application.config.secret_key_base = '27bddf70da847c1140bbbc370c44cc1076fee66355e2aa6ae7f5b5b9a2ace9d73fbb19ce492f2d22e046b68055d9fa91dc7de53265667344587aec9d677d6ea5'
+SmartDates::Application.config.secret_key_base = '088288682f7c656aaafdac5a77179646863bc0a54e37e32ca2a539178059ad022e029a2069a27fa176ff945caa50a6672b5d7e6ebd0e5efa172e2ff55fbcaf0a'
