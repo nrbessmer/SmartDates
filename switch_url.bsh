@@ -1,0 +1,1 @@
+heroku db:push postgres://nbessmer@localhost/SmartDates-dev
