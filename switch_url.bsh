@@ -1,1 +1,1 @@
-heroku db:push postgres://nbessmer@localhost/SmartDates-dev
+heroku db:push postgres://nbessmer@localhost/SmartDates-dev --confirm limitless-savannah-7132 
