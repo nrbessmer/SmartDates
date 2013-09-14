@@ -5,7 +5,23 @@
 #   gem 'sqlite3'
 development:
   adapter: postgresql
-  database: SmartDates
+  database: SmartDates-dev
+  username: nbessmer
+  password:
+  host: localhost
+  port: 5432
+  #socket: /var/pgsql_socket/.s.PGSQL.5432
+test:
+  adapter: postgresql
+  database: SmartDates-test
+  username: nbessmer
+  password:
+  host: localhost
+  port: 5432
+  #socket: /var/pgsql_socket/.s.PGSQL.5432
+prod:
+  adapter: postgresql
+  database: SmartDates-prod
   username: nbessmer
   password:
   host: localhost
