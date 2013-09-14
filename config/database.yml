@@ -6,8 +6,8 @@
 development:
   adapter: postgresql
   database: SmartDates-dev
-  username: nbessmer
-  password:
+  username: nrbessmer
+  password: 
   host: localhost
   port: 5432
   #socket: /var/pgsql_socket/.s.PGSQL.5432
